@@ -18,3 +18,9 @@ Please refer to the table below for information on each competition.
 ## Contact
 If you have any questions or contributing ideas, please send me an email.  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)
+<!--- 
+<div align=center>  
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)  
+</div>  
+--->
