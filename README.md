@@ -7,7 +7,7 @@ All languages are in __Korean__.
 ## List of competitions
 Please refer to the table below for information on each competition.
 
-|LIST|PERIOD|PROJECT|DIRECTORY|RANK|
+|<center>LIST</center>|<center>PERIOD</center>|<center>PROJECT</center>|<center>DIRECTORY</center>|<center>RANK</center>|
 |:------------:|:------------|:------------|:------------|:------------|
 |1|2020.01.16 ~ 2020.02.12|원자력발전소 상태 판단 경진대회|-|12/188|
 |2|2020.01.02 - 2020.02.02|공공 데이터 활용 온도 추정 AI 경진대회|-|11/378|
@@ -16,8 +16,8 @@ Please refer to the table below for information on each competition.
 |5|2020.12.09 ~ 2021.01.26|태양광 발전량 예측 AI 경진대회|-|in progress|
 
 ## Contact
+If you have any questions or contributing ideas, please send me an email.
 <div align=center>  
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)  
 </div>  
-If you have any questions or contributing ideas, please send me an email.
