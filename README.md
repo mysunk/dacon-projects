@@ -1,7 +1,7 @@
 dacon struggle
 =======================================
 This repository shares the analysis and source code that I conducted while participating in the Dacon competitions.  
-All languages are in __Korean__.
+Because this competition platform is for koreans, all the explanations are written in __Korean__.
 
 
 ## List of competitions
