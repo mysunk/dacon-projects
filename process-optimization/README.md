@@ -15,10 +15,9 @@ pip install -r requirements.txt
 Dataset
 ==================
 이 저장소에 데이터셋은 제외되어 있습니다.  
-데이터셋의 출처는 다음과 같습니다.  
-```setup
+데이터셋 출처: 
 https://www.dacon.io/competitions/official/235612/data/
-```
+
 Structure
 ==================
 ```setup
