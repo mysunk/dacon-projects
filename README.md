@@ -12,7 +12,7 @@ Please refer to the table below for information on each competition.
 |1|2020.01.16 ~ 2020.02.12|원자력발전소 상태 판단 경진대회|-|12/188|
 |2|2020.01.02 - 2020.02.02|공공 데이터 활용 온도 추정 AI 경진대회|-|11/378|
 |3|2020.03.01 ~ 2020.04.13|공공 데이터 활용 전력수요 및 SMP 예측 AI 경진대회|-|7/62|
-|4|2020.06.01 ~ 2020.06.30|블럭 장난감 제조 공정 최적화 AI경진대회|[process-optimization](https://github.com/mysunk/dacon-struggle/process-optimization)|5/99|
+|4|2020.06.01 ~ 2020.06.30|블럭 장난감 제조 공정 최적화 AI경진대회|[process-optimization](https://github.com/mysunk/dacon-struggle/tree/main/process-optimization)|5/99|
 |5|2020.12.09 ~ 2021.01.26|태양광 발전량 예측 AI 경진대회|-|in progress|
 
 ## Contact
