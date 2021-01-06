@@ -1,11 +1,11 @@
 dacon struggle
 =======================================
 This repository shares the analysis and source code that I conducted while participating in the Dacon competitions.  
-Because this competition platform is for koreans, all the explanations are written in __Korean__.
 
 
 ## List of competitions
-Please refer to the table below for information on each competition.
+Please refer to the table below for information on each competition.  
+It will be updated sequentially.
 
 |LIST|PERIOD|PROJECT|DIRECTORY|RANK|
 |:------------|:------------|:------------|:------------|:------------|
@@ -16,7 +16,7 @@ Please refer to the table below for information on each competition.
 |5|2020.12.09 ~ 2021.01.26|태양광 발전량 예측 AI 경진대회|-|in progress|
 
 ## Contact
-If you have any questions or contributing ideas, please send me an email.  
+If you have any questions please send me an email.  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pond9816@gmail.com)](mailto:pond9816@gmail.com)
 <!--- 
 <div align=center>  
