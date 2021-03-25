@@ -8,7 +8,7 @@ You can view all the projects of EDA and srcs __through the link in the table be
 [Dacon profile](https://dacon.io/myprofile/400537/competition/)   |
 [Kaggle profile](https://www.kaggle.com/mskim1023)
 
-## List of competitions
+## List of projects
 Please refer to the table below for information on each competition.  
 
 |NO|TOPIC|PERIOD|RANK|TOP %|
