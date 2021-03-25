@@ -5,8 +5,8 @@ Currently, only the dacon projects exist but other competitions such as kaggle w
 You can view all the projects of EDA and srcs __through the link in the table below__.  
 
 ## Profile
-**[:mag_right: Dacon profile](https://dacon.io/myprofile/400537/competition/)**  
-**[:mag_right: Kaggle profile](https://www.kaggle.com/mskim1023)**
+[:cloud:: Dacon profile](https://dacon.io/myprofile/400537/competition/)   |
+[:cloud: Kaggle profile](https://www.kaggle.com/mskim1023)
 
 ## List of competitions
 Please refer to the table below for information on each competition.  
