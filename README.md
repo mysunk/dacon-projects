@@ -1,7 +1,7 @@
 Data science Projects
 =======================================
 This repository shares the analysis and source code that I/we conducted while participating in the **data science competitions or contest**.  
-You can view all the projects of EDA and srcs __through the link in the table below__.  
+You can view all the EDA and srcs of the projects __through the link in the table below__.  
 
 ## List of projects
 Please refer to the table below for information on each competition.  
