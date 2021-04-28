@@ -19,8 +19,10 @@ Please refer to the table below for information on each competition.
 |9|[전력데이터 활용 예측 모델 개발 및 신서비스 제안](https://github.com/mysunk/dreamai-load-forecasting)|2020.06 ~ 2020.07|3|3등상 수상|
 |10|[태양광 발전량 예측](https://github.com/mysunk/dacon-PV-forecasting)|2020.12 ~ 2021.01|27/461|Top 6 %|
 |11|[시스템 품질 변화로 인한 사용자 불편 예지](https://github.com/mysunk/dacon-lg-user)|2021.01 ~ 2021.02|3/408|Top 1 %|
+|12|[해카톤](https://github.com/mysunk/hyundai-car)|2021.04 ~ NOW|||
 > * RANK refers to private score rank for the competitions   
 > * TOP percentage is rounded from the first decimal place
+> * The repo of the ongoing competition is private and will switch to public at the end.
 
 ## Competetion Profile
 [Dacon profile](https://dacon.io/myprofile/400537/competition/)   |
