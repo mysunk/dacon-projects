@@ -25,7 +25,7 @@ Please refer to the table below for information on each competition.
 > * Hacarthon was denied from releasing the code and idea, so left it private repo
 
 ## Competetion Profile
-[Dacon profile](https://dacon.io/myprofile/400537/competition/)   |
+[Dacon profile](https://dacon.io/myprofile/400537/home)   |
 [Kaggle profile](https://www.kaggle.com/mskim1023)
 
 ## Contact
